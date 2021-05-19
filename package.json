@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "type": "module",
+    "chart.js": "^3.2.1",
+    "tabulator-tables": "^4.9.3",
+    "vue-chartjs": "^3.5.1"
+  }
+}
